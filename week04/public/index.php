@@ -1,6 +1,6 @@
 <?php
     // include Contact form class file
-    include_once "../inc/ContactForm.php";
+    require_once "../inc/ContactForm.php";
 
     $dataArray = $_POST;
     $successMessage = null;
