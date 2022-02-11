@@ -2,8 +2,8 @@
 
 class ContactForm {
 
-    var $validform = true;
-    var $errorArray = array();
+    // var $validform = true;
+    // var $errorArray = array();
     var $firstName;
     var $lastName;
     var $dateOfBirth;
